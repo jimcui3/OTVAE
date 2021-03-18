@@ -1,6 +1,6 @@
 # OTVAE
-我的国创项目
-The repository of my National College Students Innovation Program.
+我们的国创项目
+The repository of our National College Students Innovation Program.
 
 项目成果论文-最优传输理论与其几何基础
 Essay-Optimal Transport and its Geometric Basis
