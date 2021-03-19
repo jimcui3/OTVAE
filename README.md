@@ -11,8 +11,5 @@ Essay-Generative Adversarial Network and its Geometric Basis](https://github.com
 结项报告
 Final report
 
-项目所用的WGAN代码
-WGAN code
-
-生成模型OTVAE的代码
-OTVAE code
+项目所用的WGAN代码与生成模型OTVAE的代码
+WGAN and OTVAE codes
