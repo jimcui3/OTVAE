@@ -13,3 +13,7 @@ Final report-Geometric View and Algorithm Optimization of Generative Adversarial
 
 [项目所用的WGAN代码与生成模型OTVAE的代码
 WGAN and OTVAE codes](https://github.com/jimcui3/OTVAE/tree/main/OTVAE)
+
+其中WGAN.py可以直接运行。OTVAE需要将OTVAE.py，optimal_transport.py，par.pth放在同一路径下。OTVAE.py为主文件，可以在其最后一行进行参数设置。par.pth为VAE训练100个epoch时得到的参数权重，可以直接进行读取，在epoch为100时，OTVAE的优秀率约为85-90%。
+
+WGAN.py can run directly. You need to put OTVAE.py, optimal_transport.py, and par.pth under the same path to run OTVAE. OTVAE.py is the main file, its parameters can be set in its last line. par.pth is the weight obtained when VAE is trained for 100 epochs, and can be directly read. The excellence rate of OTVAE is about 85-90% after training for 100 epoches.
